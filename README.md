@@ -1,2 +1,2 @@
-# Unbalanced-Datasets
-Development of techniques to figth unbalanced datasets
+# CCL: Class-Wise Curriculum Learning for Class Imbalance Problems.
+Fighting class imbalance bias using curriculum.
