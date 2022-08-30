@@ -1,2 +1,2 @@
-# CCL
-Code and data for the ICIP22 paper: CCL: CLASS-WISE CURRICULUM LEARNING FOR CLASS IMBALANCE PROBLEMS.
+# Unbalanced-Datasets
+Development of techniques to figth unbalanced datasets
